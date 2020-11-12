@@ -103,8 +103,8 @@
       <label background="0" backgroundcolor="0xffffff" wordwrap="1" enabled="1" width="180" textalpha="1" borderalpha="1" backgroundalpha="1" height="20" bordercolor="0x000000" borderradius="1" border="0" textcolor="0xffffff"/>
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
       <hotspot title="" description="" id="Point01" url="{node8}" tilt="-2.42" skinid="ht_node_enter" target="" pan="-281.31"/>
-      <hotspot title="" description="" id="Point02" url="{node12}" tilt="-21.9" skinid="ht_node_b2b" target="" pan="-175.33"/>
-      <hotspot title="" description="" id="Point03" url="{node2}" tilt="-5.39" skinid="ht_node_zoom" target="" pan="-178.56"/>
+      <hotspot title="" description="" id="Point02" url="{node12}" tilt="-24.69" skinid="ht_node_b2b" target="" pan="-145.39"/>
+      <hotspot title="" description="" id="Point03" url="{node2}" tilt="-7.03" skinid="ht_node_zoom" target="" pan="-149.85"/>
       <hotspot title="" description="" id="Point04" url="{node10}" tilt="-6.61" skinid="ht_node_zoom" target="" pan="-282.89"/>
       <hotspot title="Nachhaltiger Kaffeeanbau" description="Qualität und Nachhaltigkeit gehen für Nespresso Hand in Hand – von der Kaffeekirsche bis zur Entsorgung unserer Kapseln. Wir gehen aufgrund unseres strikten Selektionsprozesses für Kaffee und seiner ausgewählten Terroirs davon aus, dass nur ein geringer Anteil der weltweiten Kaffeeernte unseren hohen Geschmacks- und Qualitätsanforderungen entsprechen.&#xa;Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nachhaltiges Handeln entlang der gesamten Wertschöpfungskette unerlässlich. Unsere Nachhaltigkeitsstrategie The Positive Cup steht dabei für unsere Vision, mit jeder Tasse Kaffee etwas Positives zu bewirken." id="Point05" url="" tilt="11.39" skinid="ht_info" target="" pan="-358.67"/>
       <hotspot title="Nespresso Kapsel Recycling Video 2019 | Long Version | DE" description="" id="Point07" url="pqX0haZp3MI" tilt="-23.09" skinid="ht_video_youtube" target="" pan="-335.57"/>
