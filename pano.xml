@@ -85,14 +85,15 @@
     <control contextprojections="0" lockedkeyboard="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" hideabout="1" invertcontrol="1" speedwheel="1"/>
   </panorama>
   <panorama id="node11" hideabout="1">
-    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" levelbiashidpi="1.000" height="1024" leveltilesize="510" levelingroll="0" overlap="1" levelingpitch="0" levelbias="0.400">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbiashidpi="1.000" height="2048" leveltilesize="510" levelingroll="0" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
       <level predecode="0" width="1024" height="1024" preload="0"/>
       <level predecode="0" width="512" height="512" preload="1"/>
       <level predecode="1" width="256" height="256" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start fov="55" tilt="0" projection="4" pan="0"/>
+      <start fov="91" tilt="0" projection="4" pan="0.27"/>
       <flyin fov="170" tilt="-90" projection="9" pan="0"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max fov="120" fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360"/>
