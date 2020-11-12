@@ -117,6 +117,9 @@
       <video mode="1" nodechangekeep="0" startmutedmobile="1" ambientlevel="0.000" tilt="-13.340" tiltsize="10.000" fov="44.500" width="1072" id="Element01" field="90.000" level="1.000" stretch="1.000" loop="-1" rotx="0.000" handcursor="1" clickmode="2" pansize="10.000" roty="0.000" rotz="0.000" height="1072" pan="25.010">
         <source url="media/R02pano Patch-1.m4v"/>
       </video>
+      <image rotx="0.000" id="Element02" stretch="1.000" width="1072" fov="44.500" tilt="-13.340" rotz="0.000" height="1072" roty="0.000" handcursor="0" clickmode="0" pan="25.010">
+        <source url="media/R02pano_patch 2 (0-00-00-00).png"/>
+      </image>
     </media>
     <transition zoomin="2" enabled="0" type="crossdissolve" zoomout="0" softedge="0" zoomafterinfov="110" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomfov="40" zoomafteroutfov="40" blendtime="0.3"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
