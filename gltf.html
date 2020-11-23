@@ -27,7 +27,7 @@
 				const container = document.createElement( 'div' );
 				document.body.appendChild( container );
 
-				camera = new THREE.PerspectiveCamera( 45, window.innerWidth / window.innerHeight, 0.25, 20 );
+				camera = new THREE.PerspectiveCamera( 45, window.innerWidth / window.innerHeight, 0.25, 30 );
 				camera.position.set( 0, 0, 15 );
 
 				scene = new THREE.Scene()
@@ -96,10 +96,8 @@
 
 				const controls = new OrbitControls( camera, renderer.domElement );
 				controls.addEventListener( 'change', render ); // use if there is no animation loop
-				controls.enableDamping = true;
-				controls.dampingFactor=0.05;
 				controls.minDistance = 7;
-				controls.maxDistance = 15;
+				controls.maxDistance = 22;
 				controls.maxPolarAngle = Math.PI / 2;
 				controls.enablePan = false;
 
