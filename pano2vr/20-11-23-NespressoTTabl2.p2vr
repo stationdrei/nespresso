@@ -84,24 +84,9 @@
     </panorama>
     <panorama>
       <input>
-        <patch>
-          <imagepatch>
-            <pan>340.88</pan>
-            <tilt>0.72</tilt>
-            <fov>10.4256</fov>
-            <roll>0</roll>
-            <aspectratio>1</aspectratio>
-            <applyafterlevelling>0</applyafterlevelling>
-            <locked>1</locked>
-            <quality>90</quality>
-            <filename>C:/Users/novoselov/Documents/GitHub/nespresso2/patches/entervertuo_patch.psd</filename>
-            <type>image</type>
-            <blurintensity>10</blurintensity>
-            <lastmodified>2020-11-12T09:23:22</lastmodified>
-          </imagepatch>
-        </patch>
+        <patch/>
         <type>auto</type>
-        <filename>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\Render\11-11\entervertuo.jpg</filename>
+        <filename>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\Render\11-23\draft.tif</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -669,7 +654,7 @@
       <input>
         <patch/>
         <type>equirectangular</type>
-        <filename>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\Render\11-23\nachhalt-draf.tif</filename>
+        <filename>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\Render\11-23\draft1_i2.tif</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -815,8 +800,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-29.94</pan>
-            <tilt>8.41</tilt>
+            <pan>-34.34</pan>
+            <tilt>-2.81</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -841,8 +826,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-27.92</pan>
-            <tilt>-24.17</tilt>
+            <pan>-24.6</pan>
+            <tilt>-15.71</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -964,6 +949,32 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <width>0</width>
           <height>0</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-31.23</pan>
+            <tilt>-16.03</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point11</id>
+          <title>Order &amp; Care</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/de/de/abonnement</url>
+          <skinid>ht_care</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -975,7 +986,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
       <input>
         <patch/>
         <type>auto</type>
-        <filename>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\Render\11-23\b2b-draf.tif</filename>
+        <filename>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\Render\11-23\momento1.tif</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -998,8 +1009,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
       <hotspots>
         <hotspot>
           <position>
-            <pan>-5.16</pan>
-            <tilt>-16.4</tilt>
+            <pan>-0.98</pan>
+            <tilt>-15.68</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1024,8 +1035,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-144.66</pan>
-            <tilt>-7.32</tilt>
+            <pan>-138.95</pan>
+            <tilt>-9.9</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1049,8 +1060,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-180.58</pan>
-            <tilt>-15.88</tilt>
+            <pan>-179.75</pan>
+            <tilt>-20.15</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1074,8 +1085,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-227.94</pan>
-            <tilt>-14.78</tilt>
+            <pan>-271.64</pan>
+            <tilt>-18.46</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1099,8 +1110,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-297.19</pan>
-            <tilt>-14.97</tilt>
+            <pan>-320.67</pan>
+            <tilt>-14.35</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1125,8 +1136,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-1.85</pan>
-            <tilt>-3</tilt>
+            <pan>-355.52</pan>
+            <tilt>-5.56</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1150,8 +1161,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-97.08</pan>
-            <tilt>-38.57</tilt>
+            <pan>-68.32</pan>
+            <tilt>-43.12</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1161,12 +1172,12 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           </next>
           <polygon/>
           <type>point</type>
-          <id>Point04</id>
+          <id>Point04a</id>
           <title>Kontaktformular</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://www.linkedin.com/showcase/nespresso-professional/</url>
-          <skinid>ht_form</skinid>
+          <skinid>ht_linkedin</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -1176,8 +1187,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-62.2</pan>
-            <tilt>-15.61</tilt>
+            <pan>-78.78</pan>
+            <tilt>-18.87</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1201,8 +1212,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-122.79</pan>
-            <tilt>-14.42</tilt>
+            <pan>-36.37</pan>
+            <tilt>-14.99</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1225,8 +1236,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-7.53</pan>
-            <tilt>-3</tilt>
+            <pan>-4.79</pan>
+            <tilt>-5.43</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1248,6 +1259,32 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <width>0</width>
           <height>0</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-81.77</pan>
+            <tilt>-42.25</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04</id>
+          <title>Kontaktformular</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/professional-kontakt</url>
+          <skinid>ht_form</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -1259,7 +1296,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
       <input>
         <patch/>
         <type>auto</type>
-        <filename>C:/Users/novoselov/Documents/GitHub/nespresso2/reeditedVR/00pano.png</filename>
+        <filename>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\Render\11-23\momentop.tif</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1355,8 +1392,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-179.86</pan>
-            <tilt>-16.43</tilt>
+            <pan>-177.07</pan>
+            <tilt>-16.31</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1405,33 +1442,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-126.73</pan>
-            <tilt>-21.39</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point05</id>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>https://www.nespresso.com/pro/de/de/professional-kontakt</url>
-          <skinid>ht_form</skinid>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-108.81</pan>
-            <tilt>-3.2</tilt>
+            <pan>-91.85</pan>
+            <tilt>-10.59</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1454,8 +1466,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-150.84</pan>
-            <tilt>-1.73</tilt>
+            <pan>-68.21</pan>
+            <tilt>-9.92</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1478,8 +1490,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-250.38</pan>
-            <tilt>-4.7</tilt>
+            <pan>-290.14</pan>
+            <tilt>-9.5</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1543,6 +1555,108 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <linktype>video</linktype>
           <linksubtype>videoyoutube</linksubtype>
           <url>Y1S5HmbkySU</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-113.88</pan>
+            <tilt>-8.62</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point05</id>
+          <title>Nespresso Momento | Für inspirierende Kaffeemomente | 45" | Nespresso Professional Österreich | AT</title>
+          <linktype>video</linktype>
+          <linksubtype>videoyoutube</linksubtype>
+          <url>NpqhxpJbrrQ</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-128.09</pan>
+            <tilt>-27.93</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04a</id>
+          <title>Kontaktformular</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.linkedin.com/showcase/nespresso-professional/</url>
+          <skinid>ht_linkedin</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-135.79</pan>
+            <tilt>-27.05</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04</id>
+          <title>Kontaktformular</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/professional-kontakt</url>
+          <skinid>ht_form</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-233.78</pan>
+            <tilt>-7.94</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic</url>
+          <target>_blank</target>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
