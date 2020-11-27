@@ -110,8 +110,6 @@
       <label backgroundcolor="0xffffff" borderalpha="1" textcolor="0xffffff" height="0" borderradius="1" bordercolor="0x000000" textalpha="1" width="180" wordwrap="1" background="1" enabled="1" backgroundalpha="1" border="0"/>
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
       <hotspot url="{node8}" description="" target="" id="Point01" tilt="0.65" skinid="ht_node_enter" pan="-311.15" title=""/>
-      <hotspot url="{node12}" description="" target="" id="Point02" tilt="-32.71" skinid="ht_node_b2b" pan="-169.4" title=""/>
-      <hotspot url="{node2}" description="" target="" id="Point03" tilt="-8.16" skinid="ht_node_zoom" pan="-174.35" title=""/>
       <hotspot url="{node10}" description="" target="" id="Point04" tilt="-7.29" skinid="ht_node_zoom" pan="-312.07" title=""/>
       <hotspot url="" description="Qualität und Nachhaltigkeit gehen für Nespresso Hand in Hand – von der Kaffeekirsche bis zur Entsorgung unserer Kapseln. Wir gehen aufgrund unseres strikten Selektionsprozesses für Kaffee und seiner ausgewählten Terroirs davon aus, dass nur ein geringer Anteil der weltweiten Kaffeeernte unseren hohen Geschmacks- und Qualitätsanforderungen entsprechen.&#xa;Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nachhaltiges Handeln entlang der gesamten Wertschöpfungskette unerlässlich. Unsere Nachhaltigkeitsstrategie The Positive Cup steht dabei für unsere Vision, mit jeder Tasse Kaffee etwas Positives zu bewirken." target="" id="Point05" tilt="9.06" skinid="ht_info" pan="-31.87" title="Nachhaltiger Kaffeeanbau"/>
       <hotspot url="pqX0haZp3MI" description="" target="" id="Point07" tilt="-13.54" skinid="ht_video_youtube" pan="-25.29" title="Kapsel Recycling"/>
@@ -120,7 +118,8 @@
       <hotspot url="media/02-TV-05.MP4" description="" target="" id="Point10" tilt="-11.6" skinid="ht_video_file" pan="-48.58" title="Caran D'ache"/>
       <hotspot url="https://www.nespresso.com/de/de/nespresso-commitment-2020" description="" target="_blank" id="Point06" tilt="-9.24" skinid="ht_url" pan="-14.95" title="Nespresso Commitment"/>
       <hotspot url="https://www.nespresso.com/de/de/abonnement" description="" target="_blank" id="Point11" tilt="-13.81" skinid="ht_care" pan="-31.23" title="Order &amp; Care"/>
-      <hotspot url="{node12}" description="" target="" id="Point12" tilt="-50.13" skinid="ht_node_business" pan="-20.92" title="B2B"/>
+      <hotspot url="{node12}" description="" target="" id="Point02" tilt="-26.29" skinid="ht_node_business" pan="-167.57" title=""/>
+      <hotspot url="{node2}" description="" target="" id="Point03" tilt="-6.96" skinid="ht_node_zoom" pan="-173.16" title=""/>
     </hotspots>
     <media/>
     <transition zoomafterinfov="110" zoomfov="40" zoomspeed="2" zoomout="0" blendtime="0.3" type="crossdissolve" softedge="0" blendcolor="0x000000" enabled="0" zoomin="2" zoomoutpause="1" zoomafteroutfov="40"/>

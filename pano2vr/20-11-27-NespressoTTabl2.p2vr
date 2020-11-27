@@ -731,56 +731,6 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-169.4</pan>
-            <tilt>-32.71</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point02</id>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node12}</url>
-          <skinid>ht_node_b2b</skinid>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-174.35</pan>
-            <tilt>-8.16</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point03</id>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node2}</url>
-          <skinid>ht_node_zoom</skinid>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
             <pan>-312.07</pan>
             <tilt>-7.29</tilt>
             <fov>10</fov>
@@ -985,8 +935,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-20.92</pan>
-            <tilt>-50.13</tilt>
+            <pan>-167.57</pan>
+            <tilt>-26.29</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -996,12 +946,36 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           </next>
           <polygon/>
           <type>point</type>
-          <id>Point12</id>
-          <title>B2B</title>
+          <id>Point02</id>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
           <skinid>ht_node_business</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-173.16</pan>
+            <tilt>-6.96</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point03</id>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node2}</url>
+          <skinid>ht_node_zoom</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
