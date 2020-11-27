@@ -132,7 +132,7 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-358.48</pan>
+            <pan>-358.36</pan>
             <tilt>-16.72</tilt>
             <fov>10</fov>
           </position>
@@ -287,7 +287,7 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-344.34</pan>
+            <pan>-344.4</pan>
             <tilt>-16.2</tilt>
             <fov>10</fov>
           </position>
@@ -314,8 +314,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-10.01</pan>
-            <tilt>-16.86</tilt>
+            <pan>-9.95</pan>
+            <tilt>-16.75</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -524,8 +524,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-359.75</pan>
-            <tilt>9.8</tilt>
+            <pan>-321.62</pan>
+            <tilt>-15.81</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -535,8 +535,35 @@
           </next>
           <polygon/>
           <type>point</type>
-          <id>Point04</id>
-          <title>Shop</title>
+          <id>Point03</id>
+          <title>Vertuo Next</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/de/de/vertuo</url>
+          <target>_blank</target>
+          <skinid>ht_url</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-359.55</pan>
+            <tilt>10.47</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>Vertuo Next kaufen</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://www.nespresso.com/de/en/order/machines/vertuo</url>
@@ -551,8 +578,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-41.77</pan>
-            <tilt>-6.67</tilt>
+            <pan>-32.06</pan>
+            <tilt>-16.47</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -563,10 +590,35 @@
           <polygon/>
           <type>point</type>
           <id>Point05</id>
+          <title>Vertuo Next</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/de/de/vertuo</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-42.31</pan>
+            <tilt>-13.62</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>Vertuo Kapseln Kaufen</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://www.nespresso.com/de/de/coffee-selector</url>
-          <target>_blank</target>
           <skinid>ht_node_link</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -577,8 +629,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-41.19</pan>
-            <tilt>5.25</tilt>
+            <pan>-40.14</pan>
+            <tilt>6.23</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -588,7 +640,8 @@
           </next>
           <polygon/>
           <type>point</type>
-          <id>Point06</id>
+          <id>Vertuo Next</id>
+          <title>New Vertuo Next</title>
           <linktype>video</linktype>
           <linksubtype>videofile</linksubtype>
           <url>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\MP4\01-Tv-06S.mp4</url>
@@ -601,8 +654,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-31.58</pan>
-            <tilt>-17.45</tilt>
+            <pan>-87.68</pan>
+            <tilt>-8.67</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -612,36 +665,13 @@
           </next>
           <polygon/>
           <type>point</type>
-          <id>Point03</id>
+          <id>Point06</id>
+          <title>Instagram</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://www.nespresso.com/de/de/vertuo</url>
+          <url>https://www.instagram.com/nespresso.de/</url>
           <target>_blank</target>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-321.11</pan>
-            <tilt>-15.52</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point07</id>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>https://www.nespresso.com/de/de/vertuo</url>
-          <target>_blank</target>
+          <skinid>ht_insta</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
