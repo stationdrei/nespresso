@@ -417,6 +417,32 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-6.96</pan>
+            <tilt>-1.34</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>Peru Organic</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic</url>
+          <target>_blank</target>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -631,8 +657,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-40.14</pan>
-            <tilt>6.23</tilt>
+            <pan>-39.66</pan>
+            <tilt>3.28</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -656,8 +682,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-87.68</pan>
-            <tilt>-8.67</tilt>
+            <pan>-87.98</pan>
+            <tilt>-9.69</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -701,6 +727,32 @@
           <url>https://www.nespresso.com/de/de/coffee-selector</url>
           <target>_blank</target>
           <skinid>ht_node_link</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-10.57</pan>
+            <tilt>-2.36</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>Peru Organic</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic</url>
+          <target>_blank</target>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -1436,7 +1488,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         <hotspot>
           <position>
             <pan>-295.6</pan>
-            <tilt>-17.68</tilt>
+            <tilt>-17.57</tilt>
             <fov>10</fov>
           </position>
           <next>

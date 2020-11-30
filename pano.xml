@@ -54,6 +54,7 @@
       <hotspot url="https://www.instagram.com/nespresso.de/" title="Instagram" id="Point06" target="_blank" pan="-60.94" description="" tilt="-12.16" skinid="ht_insta"/>
       <hotspot url="https://www.nespresso.com/de/de/coffee-selector" title=" Kaffeefinder" id="Point07" target="_blank" pan="-308.71" description="" tilt="2.93" skinid="ht_node_link"/>
       <hotspot url="{node12}" title="B2B" id="zoom2" target="" pan="-17.58" description="" tilt="-2.26" skinid="ht_node_business"/>
+      <hotspot url="https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic" title="Peru Organic" id="Point01" target="_blank" pan="-6.96" description="" tilt="-1.34" skinid="ht_url"/>
     </hotspots>
     <media/>
     <transition zoomout="0" softedge="0" zoomafterinfov="110" blendtime="0.3" blendcolor="0x000000" zoomin="2" enabled="0" type="crossdissolve" zoomoutpause="1" zoomfov="40" zoomspeed="2" zoomafteroutfov="40"/>
@@ -84,9 +85,10 @@
       <hotspot url="https://www.nespresso.com/de/en/order/machines/vertuo" title="Vertuo Next kaufen" id="Point02" target="_blank" pan="-359.55" description="" tilt="10.47" skinid="ht_node_link"/>
       <hotspot url="https://www.nespresso.com/de/de/vertuo" title="Vertuo Next" id="Point05" target="_blank" pan="-32.06" description="" tilt="-16.47" skinid="ht_url"/>
       <hotspot url="https://www.nespresso.com/de/de/coffee-selector" title="Vertuo Kapseln Kaufen" id="Point01" target="_blank" pan="-42.31" description="" tilt="-13.62" skinid="ht_node_link"/>
-      <hotspot url="media/01-Tv-06S.mp4" title="New Vertuo Next" id="Vertuo Next" target="" pan="-40.14" description="" tilt="6.23" skinid="ht_video_file"/>
-      <hotspot url="https://www.instagram.com/nespresso.de/" title="Instagram" id="Point06" target="_blank" pan="-87.68" description="" tilt="-8.67" skinid="ht_insta"/>
+      <hotspot url="media/01-Tv-06S.mp4" title="New Vertuo Next" id="Vertuo Next" target="" pan="-39.66" description="" tilt="3.28" skinid="ht_video_file"/>
+      <hotspot url="https://www.instagram.com/nespresso.de/" title="Instagram" id="Point06" target="_blank" pan="-87.98" description="" tilt="-9.69" skinid="ht_insta"/>
       <hotspot url="https://www.nespresso.com/de/de/coffee-selector" title=" Kaffeefinder" id="Point07" target="_blank" pan="-300.72" description="" tilt="6.12" skinid="ht_node_link"/>
+      <hotspot url="https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic" title="Peru Organic" id="Point01" target="_blank" pan="-10.57" description="" tilt="-2.36" skinid="ht_url"/>
     </hotspots>
     <media/>
     <transition zoomout="0" softedge="0" zoomafterinfov="110" blendtime="0.3" blendcolor="0x000000" zoomin="2" enabled="0" type="crossdissolve" zoomoutpause="1" zoomfov="40" zoomspeed="2" zoomafteroutfov="40"/>
@@ -159,7 +161,7 @@
       <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
       <hotspot url="{node2}" title="Momento Details" id="ht_node_zoom" target="" pan="-359.89" description="" tilt="-14.81" skinid="ht_node_zoom"/>
       <hotspot url="{node8}" title="Vertuo Next" id="ht_node_enter" target="" pan="-141.53" description="" tilt="0.44" skinid="ht_node_enter"/>
-      <hotspot url="https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic" title="Peru Organic" id="Point01" target="_blank" pan="-295.6" description="" tilt="-17.68" skinid="ht_url"/>
+      <hotspot url="https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic" title="Peru Organic" id="Point01" target="_blank" pan="-295.6" description="" tilt="-17.57" skinid="ht_url"/>
       <hotspot url="NpqhxpJbrrQ" title="New Work" id="Point02" target="_blank" pan="-331.22" description="" tilt="-12.45" skinid="ht_video_youtube"/>
       <hotspot url="https://www.nespresso.com/pro/de/de/order/machines/pro/momento-120-kaffeemaschine" title="Momento Coffee &amp; Milk 120" id="Point03" target="_blank" pan="-355.84" description="" tilt="-3.41" skinid="ht_node_link"/>
       <hotspot url="https://www.linkedin.com/showcase/nespresso-professional/" title="LinkedIn" id="Point04a" target="_blank" pan="-52.75" description="" tilt="-39.94" skinid="ht_linkedin"/>
