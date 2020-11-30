@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="18007" version="6.1.10">
+<pano2vrconfig version="6.1.10" rev="18007">
   <tour>
     <panorama>
       <input>
@@ -132,8 +132,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-358.36</pan>
-            <tilt>-16.72</tilt>
+            <pan>-358.47</pan>
+            <tilt>-16.73</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -486,6 +486,7 @@
           <polygon/>
           <type>point</type>
           <id>Point02</id>
+          <title>B2B</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
@@ -511,6 +512,7 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
+          <title>Nachhaltigkeit</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
@@ -679,6 +681,33 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-300.72</pan>
+            <tilt>6.12</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point07</id>
+          <title> Kaffeefinder</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/de/de/coffee-selector</url>
+          <target>_blank</target>
+          <skinid>ht_node_link</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -736,7 +765,7 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-311.15</pan>
+            <pan>-311.26</pan>
             <tilt>0.65</tilt>
             <fov>10</fov>
           </position>
@@ -761,8 +790,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-312.07</pan>
-            <tilt>-7.29</tilt>
+            <pan>-311.76</pan>
+            <tilt>-7.42</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -773,6 +802,7 @@
           <polygon/>
           <type>point</type>
           <id>Point04</id>
+          <title>Vertuo Details</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node10}</url>
@@ -786,8 +816,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-31.87</pan>
-            <tilt>9.06</tilt>
+            <pan>-31.28</pan>
+            <tilt>9.41</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -799,7 +829,7 @@
           <type>point</type>
           <id>Point05</id>
           <title>Nachhaltiger Kaffeeanbau</title>
-          <description>Qualität und Nachhaltigkeit gehen für Nespresso Hand in Hand – von der Kaffeekirsche bis zur Entsorgung unserer Kapseln. Wir gehen aufgrund unseres strikten Selektionsprozesses für Kaffee und seiner ausgewählten Terroirs davon aus, dass nur ein geringer Anteil der weltweiten Kaffeeernte unseren hohen Geschmacks- und Qualitätsanforderungen entsprechen.
+          <description>Qualität und Nachhaltigkeit gehen für Nespresso Hand in Hand – von der Kaffeekirsche bis zur Entsorgung unserer Kapseln. Wir gehen aufgrund unseres strikten Selektionsprozesses für Kaffee und seiner ausgewählten Terroirs davon aus, dass nur ein geringer Anteil der weltweiten Kaffeeernte unseren hohen Geschmacks- und Qualitätsanforderungen entsprechen.&#xd;
 Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nachhaltiges Handeln entlang der gesamten Wertschöpfungskette unerlässlich. Unsere Nachhaltigkeitsstrategie The Positive Cup steht dabei für unsere Vision, mit jeder Tasse Kaffee etwas Positives zu bewirken.</description>
           <linktype>info</linktype>
           <linksubtype>unknown</linksubtype>
@@ -812,7 +842,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-25.29</pan>
+            <pan>-25.39</pan>
             <tilt>-13.54</tilt>
             <fov>10</fov>
           </position>
@@ -889,8 +919,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-48.58</pan>
-            <tilt>-11.6</tilt>
+            <pan>-48.57</pan>
+            <tilt>-11.72</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -939,7 +969,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-31.23</pan>
+            <pan>-31.12</pan>
             <tilt>-13.81</tilt>
             <fov>10</fov>
           </position>
@@ -977,6 +1007,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <polygon/>
           <type>point</type>
           <id>Point02</id>
+          <title>B2B</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
@@ -990,8 +1021,162 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-173.16</pan>
-            <tilt>-6.96</tilt>
+            <pan>-187.04</pan>
+            <tilt>-19.97</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04a</id>
+          <title>LinkedIn</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.linkedin.com/showcase/nespresso-professional/</url>
+          <skinid>ht_linkedin</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-194.63</pan>
+            <tilt>-20.29</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04</id>
+          <title>Kontakt</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/professional-kontakt</url>
+          <skinid>ht_form</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-203.93</pan>
+            <tilt>-10.22</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point05</id>
+          <title>Genussmomente</title>
+          <linktype>url</linktype>
+          <linksubtype>videoyoutube</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/nespresso-momento-coffee-and-milk</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-141.01</pan>
+            <tilt>-9.29</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>Peru Organic</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic</url>
+          <target>_blank</target>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-156.93</pan>
+            <tilt>-8.33</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>New Work</title>
+          <linktype>video</linktype>
+          <linksubtype>videoyoutube</linksubtype>
+          <url>NpqhxpJbrrQ</url>
+          <target>_blank</target>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-189.52</pan>
+            <tilt>-8.91</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point06</id>
+          <title>Nespresso professional</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/kaffeemaschinen-buero</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-168.87</pan>
+            <tilt>-0.84</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1002,10 +1187,139 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <polygon/>
           <type>point</type>
           <id>Point03</id>
+          <title>Momento Coffee &amp; Milk 120</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/order/machines/pro/momento-120-kaffeemaschine</url>
+          <skinid>ht_node_link</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-173.82</pan>
+            <tilt>-0.81</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point10</id>
+          <title>3D Momento</title>
+          <linktype>info</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>ht_3d</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-178.45</pan>
+            <tilt>-0.99</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point07</id>
+          <title>Nespresso Momento</title>
+          <linktype>video</linktype>
+          <linksubtype>videoyoutube</linksubtype>
+          <url>Y1S5HmbkySU</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-173.73</pan>
+            <tilt>-7.47</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>ht_node_zoom</id>
+          <title>Momento Details</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
           <skinid>ht_node_zoom</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-171.53</pan>
+            <tilt>3.59</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04</id>
+          <title>Kontakt</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/professional-kontakt</url>
+          <skinid>ht_form</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-176.22</pan>
+            <tilt>3.54</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04a</id>
+          <title>LinkedIn</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.linkedin.com/showcase/nespresso-professional/</url>
+          <skinid>ht_linkedin</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -1095,8 +1409,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-138.95</pan>
-            <tilt>-9.9</tilt>
+            <pan>-141.53</pan>
+            <tilt>0.44</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1107,6 +1421,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <polygon/>
           <type>point</type>
           <id>ht_node_enter</id>
+          <title>Vertuo Next</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node8}</url>
@@ -1120,33 +1435,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-179.75</pan>
-            <tilt>-20.15</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>ht_node_enter_recycle</id>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node11}</url>
-          <skinid>ht_node_enter_recycle</skinid>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-295.66</pan>
-            <tilt>-17.58</tilt>
+            <pan>-295.6</pan>
+            <tilt>-17.68</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1171,7 +1461,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-331.33</pan>
+            <pan>-331.22</pan>
             <tilt>-12.45</tilt>
             <fov>10</fov>
           </position>
@@ -1198,7 +1488,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         <hotspot>
           <position>
             <pan>-355.84</pan>
-            <tilt>-3.61</tilt>
+            <tilt>-3.41</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1249,8 +1539,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-72.64</pan>
-            <tilt>-19.4</tilt>
+            <pan>-72.54</pan>
+            <tilt>-19.51</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1274,8 +1564,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-27.24</pan>
-            <tilt>-12.55</tilt>
+            <pan>-26.81</pan>
+            <tilt>-12.53</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1299,8 +1589,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-4.95</pan>
-            <tilt>-3.64</tilt>
+            <pan>-4.85</pan>
+            <tilt>-3.65</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1373,6 +1663,289 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <width>0</width>
           <height>0</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-166.61</pan>
+            <tilt>-6.97</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point09</id>
+          <title>Eine Botschaft von Guilaume Le Cunff</title>
+          <linktype>video</linktype>
+          <linksubtype>videoyoutube</linksubtype>
+          <url>7nnEra6-WVc</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-182.69</pan>
+            <tilt>-7.24</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point06</id>
+          <title>Nespresso Commitment</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/de/de/nespresso-commitment-2020</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-205.76</pan>
+            <tilt>-13.32</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point08</id>
+          <title>RE:Cycle Bike</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/de/de/our-choices/kaffeegenuss/introducing-recycle</url>
+          <target>_blank</target>
+          <skinid>ht_url</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-203.57</pan>
+            <tilt>-4.24</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point10</id>
+          <title>Caran D'ache</title>
+          <linktype>video</linktype>
+          <linksubtype>videofile</linksubtype>
+          <url>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\MP4\02-TV-05.MP4</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-196.68</pan>
+            <tilt>9.04</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point05</id>
+          <title>Nachhaltiger Kaffeeanbau</title>
+          <description>Qualität und Nachhaltigkeit gehen für Nespresso Hand in Hand – von der Kaffeekirsche bis zur Entsorgung unserer Kapseln. Wir gehen aufgrund unseres strikten Selektionsprozesses für Kaffee und seiner ausgewählten Terroirs davon aus, dass nur ein geringer Anteil der weltweiten Kaffeeernte unseren hohen Geschmacks- und Qualitätsanforderungen entsprechen.&#xd;
+Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nachhaltiges Handeln entlang der gesamten Wertschöpfungskette unerlässlich. Unsere Nachhaltigkeitsstrategie The Positive Cup steht dabei für unsere Vision, mit jeder Tasse Kaffee etwas Positives zu bewirken.</description>
+          <linktype>info</linktype>
+          <linksubtype>unknown</linksubtype>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-189.77</pan>
+            <tilt>-7.11</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point07</id>
+          <title>Kapsel Recycling</title>
+          <linktype>video</linktype>
+          <linksubtype>videoyoutube</linksubtype>
+          <url>pqX0haZp3MI</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-193.13</pan>
+            <tilt>-7.31</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point11</id>
+          <title>Order &amp; Care</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/de/de/abonnement</url>
+          <skinid>ht_care</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-179.73</pan>
+            <tilt>-20.72</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>Nachhaltigkeit</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node11}</url>
+          <skinid>ht_node_nachh</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-141.43</pan>
+            <tilt>-6.68</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04</id>
+          <title>Vertuo Details</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node10}</url>
+          <skinid>ht_node_zoom</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-357.81</pan>
+            <tilt>0.7</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04</id>
+          <title>Kontakt</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/professional-kontakt</url>
+          <skinid>ht_form</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-2.57</pan>
+            <tilt>0.67</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04a</id>
+          <title>LinkedIn</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.linkedin.com/showcase/nespresso-professional/</url>
+          <skinid>ht_linkedin</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -1430,8 +2003,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
       <hotspots>
         <hotspot>
           <position>
-            <pan>-152.2</pan>
-            <tilt>0.77</tilt>
+            <pan>-156.75</pan>
+            <tilt>1.2</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1455,31 +2028,6 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-182.57</pan>
-            <tilt>-10.11</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point01</id>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node11}</url>
-          <skinid>ht_node_enter_recycle</skinid>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
             <pan>-182.09</pan>
             <tilt>-21.09</tilt>
             <fov>10</fov>
@@ -1492,10 +2040,11 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <polygon/>
           <type>point</type>
           <id>Point03</id>
+          <title>B2B</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
-          <skinid>ht_node_b2b</skinid>
+          <skinid>ht_node_business</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -1505,8 +2054,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-348.4</pan>
-            <tilt>10.51</tilt>
+            <pan>-348.39</pan>
+            <tilt>10.62</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1522,78 +2071,6 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <linksubtype>unknown</linksubtype>
           <url>https://www.nespresso.com/pro/de/de/order/machines/pro/momento-120-kaffeemaschine</url>
           <skinid>ht_node_link</skinid>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-120.33</pan>
-            <tilt>-7.66</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point07</id>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>https://www.nespresso.com/pro/de/de/new-work</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-68.33</pan>
-            <tilt>-7.21</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point08</id>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>https://www.nespresso.com/pro/de/de/kaffeemaschinen-buero</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-290.25</pan>
-            <tilt>-6.56</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point09</id>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>https://www.nespresso.com/recipes/de/de/nespresso-recipes.html</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -1653,33 +2130,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-143.84</pan>
-            <tilt>-5.25</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point05</id>
-          <title>Nespresso Momento | Für inspirierende Kaffeemomente | 45" | Nespresso Professional Österreich | AT</title>
-          <linktype>video</linktype>
-          <linksubtype>videoyoutube</linksubtype>
-          <url>NpqhxpJbrrQ</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-138.87</pan>
-            <tilt>-21.29</tilt>
+            <pan>-139</pan>
+            <tilt>-20.47</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1704,8 +2156,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-143.72</pan>
-            <tilt>-21.46</tilt>
+            <pan>-147.97</pan>
+            <tilt>-20.45</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1721,31 +2173,6 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <linksubtype>unknown</linksubtype>
           <url>https://www.nespresso.com/pro/de/de/professional-kontakt</url>
           <skinid>ht_form</skinid>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-222.97</pan>
-            <tilt>-4.91</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point01</id>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic</url>
-          <target>_blank</target>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -1798,6 +2225,313 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <linksubtype>unknown</linksubtype>
           <url>https://www.nespresso.com/pro/de/de/professional-kontakt</url>
           <skinid>ht_form</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-132.12</pan>
+            <tilt>-7.05</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point05</id>
+          <title>Genussmomente</title>
+          <linktype>url</linktype>
+          <linksubtype>videoyoutube</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/nespresso-momento-coffee-and-milk</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-66.84</pan>
+            <tilt>-7.99</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point06</id>
+          <title>Nespresso professional</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/kaffeemaschinen-buero</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-290.39</pan>
+            <tilt>-7.32</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>New Work</title>
+          <linktype>video</linktype>
+          <linksubtype>videoyoutube</linksubtype>
+          <url>NpqhxpJbrrQ</url>
+          <target>_blank</target>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-235.64</pan>
+            <tilt>-7.46</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>Peru Organic</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic</url>
+          <target>_blank</target>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-170.18</pan>
+            <tilt>-2.91</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point09</id>
+          <title>Eine Botschaft von Guilaume Le Cunff</title>
+          <linktype>video</linktype>
+          <linksubtype>videoyoutube</linksubtype>
+          <url>7nnEra6-WVc</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-183.16</pan>
+            <tilt>1.24</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point06</id>
+          <title>Nespresso Commitment</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/de/de/nespresso-commitment-2020</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-196.63</pan>
+            <tilt>-2.11</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point10</id>
+          <title>Caran D'ache</title>
+          <linktype>video</linktype>
+          <linksubtype>videofile</linksubtype>
+          <url>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\MP4\02-TV-05.MP4</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-192.86</pan>
+            <tilt>9.15</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point05</id>
+          <title>Nachhaltiger Kaffeeanbau</title>
+          <description>Qualität und Nachhaltigkeit gehen für Nespresso Hand in Hand – von der Kaffeekirsche bis zur Entsorgung unserer Kapseln. Wir gehen aufgrund unseres strikten Selektionsprozesses für Kaffee und seiner ausgewählten Terroirs davon aus, dass nur ein geringer Anteil der weltweiten Kaffeeernte unseren hohen Geschmacks- und Qualitätsanforderungen entsprechen.&#xd;
+Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nachhaltiges Handeln entlang der gesamten Wertschöpfungskette unerlässlich. Unsere Nachhaltigkeitsstrategie The Positive Cup steht dabei für unsere Vision, mit jeder Tasse Kaffee etwas Positives zu bewirken.</description>
+          <linktype>info</linktype>
+          <linksubtype>unknown</linksubtype>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-185.78</pan>
+            <tilt>-2.83</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point07</id>
+          <title>Kapsel Recycling</title>
+          <linktype>video</linktype>
+          <linksubtype>videoyoutube</linksubtype>
+          <url>pqX0haZp3MI</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-189.83</pan>
+            <tilt>-2.88</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point11</id>
+          <title>Order &amp; Care</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/de/de/abonnement</url>
+          <skinid>ht_care</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-179.08</pan>
+            <tilt>-10.71</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>Nachhaltigkeit</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node11}</url>
+          <skinid>ht_node_nachh</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-195.88</pan>
+            <tilt>-7.95</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point08</id>
+          <title>RE:Cycle Bike</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>https://www.nespresso.com/de/de/our-choices/kaffeegenuss/introducing-recycle</url>
+          <target>_blank</target>
+          <skinid>ht_url</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
