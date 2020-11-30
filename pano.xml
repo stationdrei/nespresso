@@ -150,10 +150,10 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <start fov="59" tilt="0" pan="0" projection="4"/>
       <flyin fov="170" tilt="-90" pan="0" projection="9"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
-      <max fov="120" tilt="90" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1"/>
+      <max fov="59" tilt="90" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1"/>
     </view>
     <userdata title="B2B" author="" info="" longitude="" nodeid="node12" description="" copyright="" comment="" tags="10-20" customnodeid="" source="" latitude="" datetime="" heading="0"/>
     <hotspots height="0" wordwrap="1" width="180">
@@ -196,8 +196,8 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start fov="45" tilt="0" pan="0" projection="4"/>
-      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <start fov="57" tilt="0" pan="0" projection="4"/>
+      <flyin fov="169" tilt="-90" pan="0" projection="4"/>
       <min tilt="-90" pan="0" fovpixel="1"/>
       <max fov="80" tilt="90" fovstereographic="270" pan="360" fovfisheye="360" scaletofit="1"/>
     </view>
