@@ -96,6 +96,12 @@
       <image tilt="0.000" stretch="1.000" clickmode="0" rotz="0.000" width="944" handcursor="0" id="Element02" pan="0.000" rotx="0.000" fov="39.630" height="944" roty="0.000">
         <source url="media/KARAF_MASL (00000).png"/>
       </image>
+      <video height="944" nodechangekeep="0" pan="0.000" loop="-1" tiltsize="10.000" ambientlevel="0.000" rotx="0.000" id="Tass" roty="0.000" width="944" level="1.000" fov="39.630" handcursor="0" stretch="1.000" tilt="0.000" field="90.000" startmutedmobile="1" clickmode="0" pansize="10.000" mode="1" rotz="0.000">
+        <source url="media/C-TASSE_X.mp4"/>
+      </video>
+      <video height="944" nodechangekeep="0" pan="0.000" loop="-1" tiltsize="10.000" ambientlevel="0.000" rotx="0.000" id="Karaf" roty="0.000" width="944" level="1.000" fov="39.630" handcursor="0" stretch="1.000" tilt="0.000" field="90.000" startmutedmobile="1" clickmode="0" pansize="10.000" mode="1" rotz="0.000">
+        <source url="media/C-KARAF_X.mp4"/>
+      </video>
     </media>
     <transition zoomafterinfov="110" softedge="0" zoomspeed="2" zoomafteroutfov="40" enabled="0" zoomfov="40" zoomin="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" type="crossdissolve" blendtime="0.3"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
@@ -147,7 +153,7 @@
         <source url="media/rec-patch (00000).png"/>
       </image>
       <video height="944" nodechangekeep="0" pan="-28.300" loop="-1" tiltsize="10.000" ambientlevel="0.000" rotx="0.000" id="Element02" roty="0.000" width="576" level="1.000" fov="24.500" handcursor="1" stretch="1.000" tilt="-5.000" field="90.000" startmutedmobile="1" clickmode="2" pansize="10.000" mode="1" rotz="0.000">
-        <source url="media/Rec-Nomul-Hdr Patch 1-1.m4v"/>
+        <source url="media/color-mul.mp4"/>
       </video>
     </media>
     <transition zoomafterinfov="110" softedge="0" zoomspeed="2" zoomafteroutfov="40" enabled="0" zoomfov="40" zoomin="2" blendcolor="0x000000" zoomout="0" zoomoutpause="1" type="crossdissolve" blendtime="0.3"/>
