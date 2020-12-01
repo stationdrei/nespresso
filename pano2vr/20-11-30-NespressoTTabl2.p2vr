@@ -6,7 +6,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>C:\Users\novos\work\20200925_Nespresso_Showroom\2020-11-30-nespresso\render\pref\01.tif</filename>
+        <filename>C:\Users\novos\work\20200925_Nespresso_Showroom\2020-11-30-nespresso\render\pref\02\enterr.tif</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -452,22 +452,7 @@
     </panorama>
     <panorama>
       <input>
-        <patch>
-          <imagepatch>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>39.63</fov>
-            <roll>0</roll>
-            <aspectratio>1</aspectratio>
-            <applyafterlevelling>0</applyafterlevelling>
-            <locked>1</locked>
-            <quality>90</quality>
-            <filename>patches/VDetails_patch_2.psd</filename>
-            <type>image</type>
-            <blurintensity>10</blurintensity>
-            <lastmodified>2020-12-01T12:17:50</lastmodified>
-          </imagepatch>
-        </patch>
+        <patch/>
         <type>equirectangular</type>
         <filename>C:\Users\novos\work\20200925_Nespresso_Showroom\2020-11-30-nespresso\render\pref\Details_NOGLASS.tif</filename>
         <videotype>equi</videotype>
@@ -926,22 +911,7 @@
     </panorama>
     <panorama>
       <input>
-        <patch>
-          <imagepatch>
-            <pan>-28.3</pan>
-            <tilt>-5</tilt>
-            <fov>24.5</fov>
-            <roll>0</roll>
-            <aspectratio>0.6</aspectratio>
-            <applyafterlevelling>0</applyafterlevelling>
-            <locked>1</locked>
-            <quality>90</quality>
-            <filename>patches/rec-nomul-HDR_patch_1.psd</filename>
-            <type>image</type>
-            <blurintensity>10</blurintensity>
-            <lastmodified>2020-12-01T15:08:21</lastmodified>
-          </imagepatch>
-        </patch>
+        <patch/>
         <type>equirectangular</type>
         <filename>C:\Users\novos\work\20200925_Nespresso_Showroom\2020-11-30-nespresso\render\pref\02\recy1.tif</filename>
         <videotype>equi</videotype>
