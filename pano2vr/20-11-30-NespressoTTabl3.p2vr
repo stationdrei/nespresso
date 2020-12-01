@@ -852,9 +852,9 @@
           <tiltsize>10</tiltsize>
           <fieldsize>90</fieldsize>
           <ambientlevel>0</ambientlevel>
-          <startmutedmobile>0</startmutedmobile>
+          <startmutedmobile>1</startmutedmobile>
           <level>1</level>
-          <loop>1</loop>
+          <loop>-1</loop>
           <copyfile>1</copyfile>
           <clickmode>none</clickmode>
           <handcursor>0</handcursor>
@@ -883,9 +883,9 @@
           <tiltsize>10</tiltsize>
           <fieldsize>90</fieldsize>
           <ambientlevel>0</ambientlevel>
-          <startmutedmobile>0</startmutedmobile>
+          <startmutedmobile>1</startmutedmobile>
           <level>1</level>
-          <loop>1</loop>
+          <loop>-1</loop>
           <copyfile>1</copyfile>
           <clickmode>none</clickmode>
           <handcursor>0</handcursor>
@@ -1573,18 +1573,18 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <type>video</type>
           <id>Element01</id>
           <filename>C:/Users/novos/work/20200925_Nespresso_Showroom/2020-11-30-nespresso/render/Animation/OUT/color-mul.mp4</filename>
-          <mode>0</mode>
+          <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
           <pansize>10</pansize>
           <tiltsize>10</tiltsize>
           <fieldsize>90</fieldsize>
           <ambientlevel>0</ambientlevel>
-          <startmutedmobile>0</startmutedmobile>
+          <startmutedmobile>1</startmutedmobile>
           <level>1</level>
-          <loop>1</loop>
+          <loop>-1</loop>
           <copyfile>1</copyfile>
-          <clickmode>none</clickmode>
+          <clickmode>playstop</clickmode>
           <handcursor>0</handcursor>
         </sound>
         <sound>
