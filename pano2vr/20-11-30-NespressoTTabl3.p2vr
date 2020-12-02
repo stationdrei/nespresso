@@ -843,8 +843,8 @@
             <dimy>944</dimy>
           </videorect>
           <type>video</type>
-          <id>Karaf</id>
-          <filename>C:/Users/novos/work/20200925_Nespresso_Showroom/2020-11-30-nespresso/render/Animation/OUT/C-KARAF_X.mp4</filename>
+          <id>Tass</id>
+          <filename>C:/Users/novos/work/20200925_Nespresso_Showroom/2020-11-30-nespresso/render/Animation/OUT/C-TASSE_X.mp4</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
@@ -874,8 +874,8 @@
             <dimy>944</dimy>
           </videorect>
           <type>video</type>
-          <id>Tass</id>
-          <filename>C:/Users/novos/work/20200925_Nespresso_Showroom/2020-11-30-nespresso/render/Animation/OUT/C-TASSE_X.mp4</filename>
+          <id>Karaf</id>
+          <filename>C:/Users/novos/work/20200925_Nespresso_Showroom/2020-11-30-nespresso/render/Animation/OUT/C-KARAF_X.mp4</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
