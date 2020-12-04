@@ -58,7 +58,7 @@
 						const roughnessMipmapper = new RoughnessMipmapper( renderer );
 
 						const loader = new GLTFLoader().setPath( './helper/model/' );
-						loader.load( 'momento_120_b2b.glb', function ( gltf ) {
+						loader.load( 'vertuob.glb', function ( gltf ) {
 
 							gltf.scene.traverse( function ( child ) {
 
@@ -96,18 +96,18 @@
 
 				const controls = new OrbitControls( camera, renderer.domElement );
 				controls.addEventListener( 'change', render ); // use if there is no animation loop
-				controls.minDistance = 7;
-				controls.maxDistance = 22;
+				controls.minDistance = 0.8;
+				controls.maxDistance = 1;
 				controls.maxPolarAngle = Math.PI / 2;
 				controls.enablePan = false;
 
-				//controls.enableDamping = true;
-	//	controls.dampingFactor = 0.1;
-		controls.rotateSpeed = 1;
+				controls.enableDamping = true;
+		controls.dampingFactor = 0.25;
+	//		controls.rotateSpeed = 1;
 
 
 
-				controls.target.set( 0, 2, - 0.2 );
+				controls.target.set( 0, 0.2	, 0);
 				controls.update();
 				window.addEventListener( 'resize', onWindowResize, false );
 
