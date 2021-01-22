@@ -55,7 +55,6 @@
       <hotspot id="Vertuo Next" url="media/01-order-care.mp4" skinid="ht_video_file" title="Order &amp; Care" pan="-28.62" tilt="-7.01" description="" target=""/>
       <hotspot id="Point03" url="https://www.nespresso.com/de/de/vertuo" skinid="ht_url" title="Vertuo Next" pan="-344.4" tilt="-16" description="" target="_blank"/>
       <hotspot id="Point05" url="https://www.nespresso.com/de/de/vertuo" skinid="ht_url" title="Vertuo Next" pan="-9.73" tilt="-16.87" description="" target="_blank"/>
-      <hotspot id="Point06" url="https://www.instagram.com/nespresso.de/" skinid="ht_insta" title="Instagram" pan="-60.68" tilt="-12.29" description="" target="_blank"/>
       <hotspot id="Point07" url="https://www.nespresso.com/de/de/coffee-selector" skinid="ht_node_link" title=" Kaffeefinder" pan="-317.05" tilt="-13.15" description="" target="_blank"/>
       <hotspot id="zoom2" url="{node12}" skinid="ht_node_business" title="B2B" pan="-17.12" tilt="2.98" description="" target="0.0/0.0/59.0"/>
       <hotspot id="Point08" url="_S_HmYUCwhE" skinid="ht_video_youtube" title="Nespresso VERTUO Next Intro Machine 2020 40&quot; | DE" pan="-345.75" tilt="-5.3" description="" target=""/>
@@ -211,7 +210,7 @@
       <hotspot id="Point04" url="https://www.nespresso.com/pro/de/de/order/machines/pro/momento-120-kaffeemaschine" skinid="ht_node_link" title="Momento Coffee &amp; Milk 120" pan="-348.39" tilt="10.62" description="" target="_blank"/>
       <hotspot id="Point10" url="" skinid="ht_3d" title="360 Ansicht" pan="-1.35" tilt="10.78" description="" target=""/>
       <hotspot id="Point11" url="Y1S5HmbkySU" skinid="ht_video_youtube" title="Nespresso Momento" pan="-12.98" tilt="10.33" description="" target=""/>
-      <hotspot id="Point04a" url="https://www.linkedin.com/showcase/nespresso-professional/" skinid="ht_linkedin" title="LinkedIn" pan="-222.77" tilt="-21.56" description="" target="_blank"/>
+      <hotspot id="Point04a" url="https://www.linkedin.com/showcase/nespresso-professional/" skinid="ht_linkedin" title="LinkedIn" pan="-222.78" tilt="-21.48" description="" target="_blank"/>
       <hotspot id="Point04" url="https://www.nespresso.com/pro/de/de/professional-kontakt" skinid="ht_form" title="Kontaktformular" pan="-231.9" tilt="-21.88" description="" target="_blank"/>
       <hotspot id="Point04a" url="https://www.linkedin.com/showcase/nespresso-professional/" skinid="ht_linkedin" title="LinkedIn" pan="-7.01" tilt="16.44" description="" target="_blank"/>
       <hotspot id="Point04" url="https://www.nespresso.com/pro/de/de/professional-kontakt" skinid="ht_form" title="Kontakt" pan="-354.98" tilt="16.58" description="" target="_blank"/>
