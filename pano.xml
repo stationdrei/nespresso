@@ -52,7 +52,7 @@
       <hotspot id="ht_node_enter_recycle" url="{node11}" skinid="ht_node_nachh" title="Nachhaltigkeit" pan="-0.84" tilt="3.65" description="" target="15.4/-0.5/62.0"/>
       <hotspot id="Point01" url="https://www.nespresso.com/de/de/coffee-selector" skinid="ht_node_link" title="Vertuo Kapseln kaufen" pan="-16.14" tilt="-13.72" description="" target="_blank"/>
       <hotspot id="Point02" url="https://www.nespresso.com/de/en/order/machines/vertuo" skinid="ht_node_link" title="Vertuo Next kaufen" pan="-358.54" tilt="-5.1" description="" target="_blank"/>
-      <hotspot id="Vertuo Next" url="media/01-order-care.mp4" skinid="ht_video_file" title="Order &amp; Care" pan="-28.62" tilt="-7.01" description="" target=""/>
+      <hotspot id="Vertuo Next" url="media/01-order-care.mp4" skinid="ht_video_file" title="Order &amp; Care" pan="-28.69" tilt="-7.02" description="" target=""/>
       <hotspot id="Point03" url="https://www.nespresso.com/de/de/vertuo" skinid="ht_url" title="Vertuo Next" pan="-344.4" tilt="-16" description="" target="_blank"/>
       <hotspot id="Point05" url="https://www.nespresso.com/de/de/vertuo" skinid="ht_url" title="Vertuo Next" pan="-9.73" tilt="-16.87" description="" target="_blank"/>
       <hotspot id="Point07" url="https://www.nespresso.com/de/de/coffee-selector" skinid="ht_node_link" title=" Kaffeefinder" pan="-317.05" tilt="-13.15" description="" target="_blank"/>
