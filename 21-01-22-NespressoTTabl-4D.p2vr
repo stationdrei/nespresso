@@ -2494,7 +2494,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>index.html</filename>
+          <filename>../nespressotest/index.html</filename>
           <values>
             <value id="css"/>
             <value id="gginfo">false</value>
@@ -2547,7 +2547,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <enabled>0</enabled>
         </webvr>
         <tilesize>1024</tilesize>
-        <filename>pano.xml</filename>
+        <filename>../nespressotest/pano.xml</filename>
         <skinfile>$d/pano2vr/silhouette_cardboard.ggsk</skinfile>
         <quality>82</quality>
         <windowwidth>480</windowwidth>
